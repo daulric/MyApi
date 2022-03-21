@@ -1,0 +1,12 @@
+{
+  "Commands": [
+    
+    {
+      "Hello": ":hello", 
+      "Kick": ":kick", 
+      "Teleport": ":teleport"
+    }
+    
+  ]
+  
+}
